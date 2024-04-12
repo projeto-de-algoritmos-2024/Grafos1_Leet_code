@@ -6,8 +6,8 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 19/0030801  |  João Pedro Costa |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0030801  | João Pedro Costa |
+| 20/2028973  | Tiago Albuquerque de Lima |
 
 ## Sobre 
 Este repositório tem como objetivo a resolução de exercícios sobre grafos do [Leet Code](https://leetcode.com/), utilizando o conteúdo do primeiro módulo Grafos 1.
