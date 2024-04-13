@@ -13,7 +13,13 @@
 Este repositório tem como objetivo a resolução de exercícios sobre grafos do [Leet Code](https://leetcode.com/), utilizando o conteúdo do primeiro módulo Grafos 1.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercício 1 - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
+
+Dificuldade:Média
+Problema:[Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Is_Graph_Bipartite/Is_Graph_Bipartite.md)
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Is_Graph_Bipartite/Is_GraphBipartite.py)
+
+[](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Assets/Media_1.png)
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
