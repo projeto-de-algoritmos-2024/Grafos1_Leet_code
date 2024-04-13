@@ -30,7 +30,6 @@ Explanation: We can partition the nodes into two sets: {0, 2} and {1, 3}.
 
 # Constraints:
 
-\```
 ```graph.length == n``` 
 
 ```1 <= n <= 100``` 
@@ -44,4 +43,3 @@ Explanation: We can partition the nodes into two sets: {0, 2} and {1, 3}.
 All the values of ```graph[u]``` are unique. 
 
 If ```graph[u]``` contains ```v```, then ```graph[v]``` contains ```u```.
-\```
