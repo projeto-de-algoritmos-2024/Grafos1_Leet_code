@@ -15,11 +15,11 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 ## Screenshots
 ### Exercício 1 - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
 
-Dificuldade:Média
-Problema:[Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Is_Graph_Bipartite/Is_Graph_Bipartite.md)
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Is_Graph_Bipartite/Is_GraphBipartite.py)
+Dificuldade:Média<5>
+Problema:[Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Is_Graph_Bipartite/Is_Graph_Bipartite.md)<5>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Is_Graph_Bipartite/Is_GraphBipartite.py)<5>
 
-[](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Assets/Media_1.png)
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Assets/Media_1.png)<5>
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
