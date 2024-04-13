@@ -23,3 +23,13 @@ class Solution:
                     i =i+1
                     if (vetor[atual]==0):
                         vetor[atual]=cor  #Pintando
+                        for vizinho in graph[atual]:
+                            ## 0 <= graph[u][i] <= n - 1
+                            if vizinho <0 or vizinho>=n:
+                                return False
+                            else:
+                                fila.append((vizinho, -cor)) #-1
+                    else:
+                        if (vetor[atual]!=cor):
+                            return False
+        return True
