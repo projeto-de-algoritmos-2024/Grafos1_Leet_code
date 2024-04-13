@@ -30,16 +30,16 @@ Explanation: We can partition the nodes into two sets: {0, 2} and {1, 3}.
 
 # Constraints:
 
-```graph.length == n``` 
+- ```graph.length == n``` 
 
-```1 <= n <= 100``` 
+- ```1 <= n <= 100``` 
 
-```0 <= graph[u].length < n``` 
+- ```0 <= graph[u].length < n``` 
 
-```0 <= graph[u][i] <= n - 1``` 
+- ```0 <= graph[u][i] <= n - 1``` 
 
-```graph[u]``` does not contain ```u```. 
+- ```graph[u]``` does not contain ```u```. 
 
-All the values of ```graph[u]``` are unique. 
+- All the values of ```graph[u]``` are unique. 
 
-If ```graph[u]``` contains ```v```, then ```graph[v]``` contains ```u```.
+- If ```graph[u]``` contains ```v```, then ```graph[v]``` contains ```u```.
