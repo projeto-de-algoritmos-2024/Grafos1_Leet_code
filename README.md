@@ -16,10 +16,16 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 ### Exercício 1 - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
 
 Dificuldade:Média<br>
-Problema:[Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/64d4c95abaf4614db367828cfbea8fb85c1ca8da/Is_Graph_Bipartite/Is_Graph_Bipartite.md)<br>
+Problema: [Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/64d4c95abaf4614db367828cfbea8fb85c1ca8da/Is_Graph_Bipartite/Is_Graph_Bipartite.md)<br>
 Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/bd758c66b5b587e4c5db35341f7ea19baa5d165f/Is_Graph_Bipartite/Is_GraphBipartite.py)<br>
 
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Assets/Media_1.png)<br>
+
+### Exercício 2 - [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)
+
+Dificuldade:Difícil<br>
+Problema: [Shortest Path Visiting All Nodes](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/f3e19332d95e98cc8c1240acdc223761b2f81d66/Shortest_Path_Visiting_All_Nodes/Shortest_Path_Visiting_All_Nodes.md)<br>
+Codigo: <br>
 
 ## Instalação 
 **Linguagem**: Python e C<br>
