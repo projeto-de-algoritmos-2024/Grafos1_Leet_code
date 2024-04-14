@@ -31,7 +31,7 @@ Codigo: <br>
 
 Dificuldade: Difícil<br>
 Problema: [Swim in Rising Water](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/ffbb8f1de75ef2ad16797861b76464c1c5249435/swim-in-rising-water/Swim_in_rising_water.md)<br>
-Codigo: <br>
+Codigo: E<br>
 
 ## Instalação 
 **Linguagem**: Python<br>
