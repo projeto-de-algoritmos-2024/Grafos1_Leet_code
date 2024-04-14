@@ -1,4 +1,4 @@
-# Exercícios Leet Code
+# Exercícios LeetCode
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -10,7 +10,7 @@
 | 20/2028973  | Tiago Albuquerque de Lima |
 
 ## Sobre 
-Este repositório tem como objetivo a resolução de exercícios sobre grafos do [Leet Code](https://leetcode.com/), utilizando o conteúdo do primeiro módulo Grafos 1.
+Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do primeiro módulo Grafos 1.
 
 ## Screenshots
 ### Exercício 1 - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
@@ -27,13 +27,34 @@ Dificuldade: Difícil<br>
 Problema: [Shortest Path Visiting All Nodes](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/f3e19332d95e98cc8c1240acdc223761b2f81d66/Shortest_Path_Visiting_All_Nodes/Shortest_Path_Visiting_All_Nodes.md)<br>
 Codigo: <br>
 
+### Exercício 3 - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)
+
+Dificuldade: Difícil<br>
+Problema: [Swim in Rising Water](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/ffbb8f1de75ef2ad16797861b76464c1c5249435/swim-in-rising-water/Swim_in_rising_water.md)<br>
+Codigo: <br>
+
 ## Instalação 
-**Linguagem**: Python e C<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+- O codigo deve ser executado no site do LeetCode em uma classe Solution.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+- 1°: Copiar o codigo do arquivo ```.py```.
+ 
+- 2°: Entrar no site do LeetCode.
+ 
+- 3°: Criar uma conta no LeetCode.
+ 
+- 4°: Entrar no link dos exercicios.
+ 
+- 5°: Alterar a linguagem para ```Python3```.
+ 
+- 6°: Colar o codigo no painel.
+ 
+- 7°: Clicar em ```Run```.
+ 
+- 8°: Obter e Verificar resultado dos codigos.
+
+**Obs.:** Faça isso para cada codigo.
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
