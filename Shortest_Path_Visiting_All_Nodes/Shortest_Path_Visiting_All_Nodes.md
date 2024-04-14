@@ -24,13 +24,13 @@ Explanation: One possible path is [0,1,4,2,3]
 # Constraints:
 
 - ```n == graph.length```
-- 
+ 
 - ```1 <= n <= 12```
-- 
+ 
 - ```0 <= graph[i].length < n```
-- 
+ 
 - ```graph[i]``` does not contain ```i```.
-- 
+ 
 - If ```graph[a]``` contains ```b```, then ```graph[b]``` contains ```a```.
-- 
+ 
 - The input graph is always connected.
