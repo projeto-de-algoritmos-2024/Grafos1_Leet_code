@@ -17,7 +17,7 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 
 Dificuldade:Média<br>
 Problema:[Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Is_Graph_Bipartite/Is_Graph_Bipartite.md)<br>
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Is_Graph_Bipartite/Is_GraphBipartite.py)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/bd758c66b5b587e4c5db35341f7ea19baa5d165f/Is_Graph_Bipartite/Is_GraphBipartite.py)<br>
 
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Assets/Media_1.png)<br>
 
