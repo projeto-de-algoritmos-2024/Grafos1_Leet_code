@@ -13,7 +13,7 @@ Return ```true``` if and only if it is **bipartite**.
  
 
 # Example 1:
-
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/5e1721a7b2c77f95fbb2dd41803b898b2997d024/Assets/E1.jpg)<br>
 ```
 Input: graph = [[1,2,3],[0,2],[0,1,3],[0,2]]
 Output: false
@@ -21,7 +21,7 @@ Explanation: There is no way to partition the nodes into two independent sets su
 ```
 
 # Example 2:
-
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/5e1721a7b2c77f95fbb2dd41803b898b2997d024/Assets/E2.jpg)<br>
 ```
 Input: graph = [[1,3],[0,2],[1,3],[0,2]]
 Output: true
