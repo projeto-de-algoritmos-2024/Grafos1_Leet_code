@@ -22,7 +22,7 @@ class Solution:
         aresta = 0  #Contador de arestas andadas       
         while fila:
             tamanho = len(fila)
-            for x in range(0, tamanho):
+            for _ in range(0, tamanho):
                 no, estado = fila.pop(0)
                 if todosnos==estado:
                     return aresta
