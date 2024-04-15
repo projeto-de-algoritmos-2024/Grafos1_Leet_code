@@ -62,8 +62,7 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_c
 
 ## Outros 
 **Apresentação da resolução dos exercícios:**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n8139Zxdvc0?si=BFcgIB-fJl93CwfH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+link: https://youtu.be/n8139Zxdvc0?si=I4mpyA0qTWXnz_Za
 
 
 
