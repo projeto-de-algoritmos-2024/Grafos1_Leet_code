@@ -25,7 +25,9 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_c
 
 Dificuldade: Difícil<br>
 Problema: [Shortest Path Visiting All Nodes](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/f3e19332d95e98cc8c1240acdc223761b2f81d66/Shortest_Path_Visiting_All_Nodes/Shortest_Path_Visiting_All_Nodes.md)<br>
-Codigo: <br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/3664a0110fab71e6fca580e2ecf9609724d1560f/Shortest_Path_Visiting_All_Nodes/Shortest_Path_Visiting_All_Nodes.py)<br>
+
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/3664a0110fab71e6fca580e2ecf9609724d1560f/Assets/Media_2.png)<br>
 
 ### Exercício 3 - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)
 
