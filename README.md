@@ -61,8 +61,7 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_c
 **Obs.:** Faça isso para cada codigo.
 
 ## Outros 
-**Apresentação da resolução dos exercícios:**
-link: https://youtu.be/n8139Zxdvc0?si=I4mpyA0qTWXnz_Za
+**Apresentação da resolução dos exercícios:** https://youtu.be/n8139Zxdvc0?si=I4mpyA0qTWXnz_Za
 
 
 
